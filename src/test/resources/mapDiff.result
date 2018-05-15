@@ -1,0 +1,2 @@
+JsonPrimitive diff, expected: "somevalue" but was "someothervalue"
+Stack[0]: Object["key2"]

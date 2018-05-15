@@ -1,0 +1,2 @@
+JsonPrimitive diff, expected: "hola" but was "chau"
+Stack[0]: Object["key1"]

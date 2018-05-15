@@ -1,0 +1,13 @@
+{
+  "somekey": [
+    1,
+    2,
+    {
+      "another": true,
+      "values": [
+        "chau",
+        88
+      ]
+    }
+  ]
+}

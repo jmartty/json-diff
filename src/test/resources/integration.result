@@ -1,0 +1,5 @@
+JsonPrimitive diff, expected: 89 but was 88
+Stack[3]: Array[1]
+Stack[2]: Object["values"]
+Stack[1]: Array[2]
+Stack[0]: Object["somekey"]
